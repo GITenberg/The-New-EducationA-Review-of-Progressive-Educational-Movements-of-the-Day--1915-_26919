@@ -1,0 +1,30 @@
+_repo: The-New-EducationA-Review-of-Progressive-Educational-Movements-of-the-Day--1915-_26919
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nearing, Scott
+    birthdate: 1883
+    deathdate: 1983
+    gutenberg_agent_id: '4313'
+    url: http://www.gutenberg.org/2009/agents/4313
+    wikipedia: http://en.wikipedia.org/wiki/Scott_Nearing
+description: ''
+gutenberg_issued: '2008-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26919'
+  lccn: '15005799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Education'
+title: 'The New Education
+
+  A Review of Progressive Educational Movements of the Day (1915)'
+url: http://www.gutenberg.org/ebooks/26919
